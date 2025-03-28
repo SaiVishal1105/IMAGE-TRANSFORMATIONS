@@ -113,49 +113,8 @@ plt.show()
 ```
 ## Output:
 
-### Original Image
+![image](https://github.com/user-attachments/assets/b8cd565a-283d-4208-87f1-0d865eeee5df)
 
-![image](https://github.com/user-attachments/assets/458a48c2-c51a-4201-b8b3-cb6b96dbd968)
-
-
-### i)Image Translation
-
-
-![image](https://github.com/user-attachments/assets/3aa56a36-6dd0-4d2b-ad53-338c00848653)
-
-
-
-### ii) Image Scaling
-
-
-![image](https://github.com/user-attachments/assets/e3f6112b-f109-499e-a889-272f86cdb03c)
-
-
-
-
-### iii)Image shearing
-
-
-![image](https://github.com/user-attachments/assets/70708c89-8a80-464e-a5f2-c7d7b9008f4f)
-
-
-### iv)Image Reflection
-
-
-![image](https://github.com/user-attachments/assets/2535e4b5-5b54-4c6f-8a29-23766a531d6f)
-
-
-
-### v)Image Rotation
-
-
-![image](https://github.com/user-attachments/assets/2ba7030d-0d3b-492c-bcbb-925bc3b188a4)
-
-
-### vi)Image Cropping
-
-
-![image](https://github.com/user-attachments/assets/e7a2d2a5-7b49-4af7-a38d-64df45cb0841)
 
 
 
